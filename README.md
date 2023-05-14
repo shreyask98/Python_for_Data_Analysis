@@ -9,8 +9,7 @@ This repository contains code and examples for exploring and analyzing data usin
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Notebooks](#notebooks)
-<!-- - [Contributing](#contributing) -->
+- [Notebooks](#notebooks)   <!-- - [Contributing](#contributing) -->
 - [License](#license)
 
 ## Introduction
