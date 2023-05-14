@@ -10,7 +10,7 @@ This repository contains code and examples for exploring and analyzing data usin
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Notebooks](#notebooks)
-- [Contributing](#contributing)
+<!-- - [Contributing](#contributing) -->
 - [License](#license)
 
 ## Introduction
